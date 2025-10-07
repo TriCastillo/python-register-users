@@ -61,7 +61,7 @@ python-register-users/
 - Implement unit tests for all validation functions
 
 ## Acknowledgement
-Thanks to the start-up team and previous developers for providing the initial helper functions and project requirements.
+- Problem statements and/or datasets in this project were sourced from DataCamp real-world projects.
 
 ## Contact Information
 For questions or collaboration, contact:
