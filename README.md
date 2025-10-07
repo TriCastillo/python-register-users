@@ -65,4 +65,4 @@ python-register-users/
 
 ## Contact Information
 For questions or collaboration, contact:
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)
+- **Reynaldo III Castillo**: [reynaldoiii.castillo@gmail.com](mailto:reynaldoiii.castillo@gmail.com)
